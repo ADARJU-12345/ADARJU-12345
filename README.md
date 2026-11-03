@@ -1,16 +1,37 @@
-## Hi there 👋
+Hello, I'm Adarju 👋
 
-<!--
-**ADARJU-12345/ADARJU-12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | NGO & Humanitarian Development | Monitoring & Evaluation
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Public Administration graduate with an interest in using data to support humanitarian work, research, and community development.
+
+I am currently learning Data Analysis and developing practical skills to help NGOs make informed decisions through data.
+
+🎯 My Interests
+
+- Data Analysis
+- Monitoring and Evaluation (M&E)
+- Humanitarian and Development Projects
+- Research and Data Collection
+- Evidence-Based Decision Making
+
+🛠️ Tools I'm Learning
+
+- Microsoft Excel
+- GitHub
+
+📚 Currently Learning
+
+- Data cleaning and organisation
+- Data analysis with Excel
+- Data presentation and reporting
+- Building practical data projects
+
+🌱 My Goal
+
+To become a skilled Data Analyst who uses data to improve humanitarian interventions, support NGOs, and contribute to sustainable community development.
+
+🤝 Let's Connect
+
+I am open to learning opportunities, collaborations, and projects in data analysis, research, and humanitarian development.
